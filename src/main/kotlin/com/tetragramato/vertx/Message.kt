@@ -1,6 +1,7 @@
 package com.tetragramato.vertx
 
 import java.util.*
+import java.util.Collections.emptyMap
 
 
 /**
